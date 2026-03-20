@@ -1,4 +1,3 @@
-<script>
 (function() {
   'use strict';
 
@@ -1438,4 +1437,3 @@
   window.SumoSubscription = { refresh: initSubscriptionPage, selectContinent: selectSubscriptionContinent };
   init();
 })();
-</script>
